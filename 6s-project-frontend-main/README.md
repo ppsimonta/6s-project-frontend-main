@@ -9,7 +9,7 @@ Prerequisites:
 - 6S Audit web app back-end
 
 ```sh
-git clone https://peke.plab.fi/kallniem/6s-project-frontend.git
+git clone https://github.com/ppsimonta/6s-project-frontend-main.git
 cd 6s-project-frontend
 npm install
 ```
