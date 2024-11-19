@@ -1,6 +1,15 @@
 # 6S Audit web app front-end
 
-## Frontend Overview
+**6S Audit Web App** is an application designed for companies and organizations that want to perform and manage 6S audits. The app provides users with tools for managing audit areas, rooms, and processes, completing audits, and generating reports. The primary role of the frontend is to offer an easy-to-use interface where users can register, log in, perform audits, view results, and manage their user profiles. Admin users also have their own section where they can manage users and view audit statistics.
+
+## Purpose
+
+This frontend application is designed to provide users and administrators with an interface for conducting and managing audits. The app supports the following functionalities:
+- User registration and login
+- Completing and reviewing audits
+- Managing user profiles
+- Admin users can manage other users and view audit statistics
+- Password recovery and account settings
 
 ### **Pages & Routes**
 
