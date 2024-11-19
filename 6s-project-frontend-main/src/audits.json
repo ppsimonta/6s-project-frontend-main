@@ -1,0 +1,186 @@
+{
+    "continousAudit": [
+        {
+            "question": "Yleisilme?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Muita huomioita / kehitysideat",
+            "type": "freeform",
+            "value": ""
+        },
+        {
+            "question": "Mitä positiivista olet huomannut tarkastusjaksolla?",
+            "type": "freeform",
+            "value": ""
+        },
+        {
+            "question": "Lataa kuva",
+            "type": "image",
+            "value": ""
+        }
+    ],
+  
+   "securityAudit": [
+        {
+            "question": "Yleisilme. Onko yleisilme siisti? Onko katselmoinneissa turvallisuushavaintoja? Onko havaittuihin poikkeamiin reagoitu?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Turvallisuusohjeistukset. Onko ohjeistukset saatavilla ja ajantasaiset? Noudatetaanko annettuja ohjeita?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Toiminnan riskiarviointi. Onko riskiarviointi ajantasalla ja onko toiminnan riskiä mahdollisuus pienentää?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Suojavarusteet. Onko henkilökohtaiset suojavarusteet tunnistettu ja saatavilla? Käytetäänkö niitä?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Ensiapu- ja palosammuttimet. Onko ensiaputarvikkeet ja palosammuttimet käytettävissä ja ajan tasalla?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Kemikaalien hallinta. Onko kemikaaliluettelot ajan tasalla? Säilytetäänkö kemikaalit asianmukaisesti? Onko varoitusmerkit ja käyttöturvatiedotteet saatavilla?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Räjähdyssuoja-arviointi. Käsitelläänkö tilassa kemikaaleja tai pölyjä? Onko räjähdyssuoja-arviointi ajantasalla?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Säteilyturvallisuusdokumentit. Onko säteilyturvallisuusohjeet ja luvat ajantasalla?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Turvallisuushavainnot. Onko tilasta tullut turvallisuushavaintoja? Onko korjaavat toimenpiteet tehty?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Muita huomioita / kehitysideat",
+            "type": "freeform",
+            "value": ""
+        },
+        {
+            "question": "Mitä positiivista olet huomannut tarkastusjaksolla?",
+            "type": "freeform",
+            "value": ""
+        },
+        {
+            "question": "Lataa kuva",
+            "type": "image",
+            "value": ""
+        }
+    ],
+    "semesterAudit": [
+        {
+            "question": "Yleisilme. Onko yleisilme siisti? Millä tasolla päivittäiskatselmointien tulokset on? Onko havaittuihin poikkeamiin reagoitu?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Ohjeistukset. Onko ohjeistukset saatavilla ja ajantasaiset? Noudatetaanko annettuja ohjeita?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Turvallisuus. Turvallisuushavaitojen läpikäynti, koneiden ja laitteiden kunto ja turvallisuus, henkilösuojaimet",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Kiertotalous. Onko syntyvät erityisjätteet tunnistettu? Onko tarpeelliset kierrätysastiat saatavilla? Huolehditaanko tarvittavat tyhjennykset?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Kemikaalien hallinta Onko kemikaaliluettelot ajantasalla? Säilytetäänkö kemikaalit asianmukaisesti? Onko varoitusmerkit ja käyttöturvatiedotteet saatavilla?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Trail - kalustonhallinta. Onko laitteet ajantasalla kalustonhallintajärjestelmässä? ",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Kemikaalien hallinta Onko kemikaaliluettelot ajantasalla? Säilytetäänkö kemikaalit asianmukaisesti? Onko varoitusmerkit ja käyttöturvatiedotteet saatavilla?",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Muita huomioita / kehitysideat",
+            "type": "freeform",
+            "value": ""
+        },
+        {
+            "question": "Mitä positiivista olet huomannut tarkastusjaksolla?",
+            "type": "freeform",
+            "value": ""
+        },
+        {
+            "question": "Lataa kuva",
+            "type": "image",
+            "value": ""
+        }
+    ],
+    "operatingAndManagementAudit": [
+        {
+            "question": "Yleinen vuosi- ja turvallisuuskatselmointien tilanne ympäristöissä",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "6S-toiminnan tavoitteet",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "6S-vuosikello ja päivitystarpeet",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "6S-dokumentaatiot ja dokumenttien säilytyspaikka",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "6S-toiminnassa havaitut kehitysehdotukset ja niiden edistyminen - kehitysideapankki",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "6S-resurssoinnin toimivuus ja roolit",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "6S-viestintä ja brändi",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "6S-viestintä ja brändi",
+            "type": "rating",
+            "value": 0
+        },
+        {
+            "question": "Johtamisen portaikko - tason arviointi",
+            "type": "rating",
+            "value": 0
+        }
+    ]    
+}
