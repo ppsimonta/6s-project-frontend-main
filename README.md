@@ -1,4 +1,4 @@
-# 6S Audit web app back-end
+# 6S Audit web app front-end
 
 ## Installation
 
@@ -6,12 +6,11 @@ Prerequisites:
 
 - Git
 - NodeJS
-- MongoDB
-
-Other types of databases can be supported by adding a new set of services, however no environment variables nor services are provided at this time.
+- 6S Audit web app back-end
 
 ```sh
-cd 6s-project-backend
+git clone https://peke.plab.fi/kallniem/6s-project-frontend.git
+cd 6s-project-frontend
 npm install
 ```
 
@@ -19,7 +18,14 @@ Remember to rename the `.env.example` file to `.env` and fill in the values.
 
 ## Running the app
 
-Once installed you can run the server.
+Once installed you can run it in dev mode or preview mode
 ```sh
-npm start
+npm run dev
+```
+
+or
+
+```sh
+npm run build
+npm run preview
 ```
